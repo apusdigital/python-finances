@@ -1,7 +1,11 @@
 ![Screenshot](screenshot.png)   
-Python para finanças: uma análise de dados da Bolsa de Valores de São Paulo (BOVESPA).   
+Python para finanças: uma análise de dados da Bolsa de Valores de São Paulo (BOVESPA). 
 
-Referência:
+Execução via Google Colab:  
+
+https://colab.research.google.com/drive/17GqXZaRGBUiH8hkxKursOpb7xswpA32g
+
+Referência:   
 
 Jones Granatyr, Python para Finanças: Análise de Dados e Machine Learning. IA Experts.  
 Disponível em: https://iaexpert.academy/courses/python-para-financas-analise-de-dados-e-machine-learning/.  
