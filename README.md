@@ -1,4 +1,4 @@
-![Screenshot](screenshot.png)   
+# python_finances
 Python para finanças: uma análise de dados da Bolsa de Valores de São Paulo (BOVESPA). 
 
 Execução via Google Colab:  
@@ -14,4 +14,7 @@ Acessado em: 23/01/2020.
 Contato:    
 
 Alex - alex@apus.digital   
-APUS Digital - https://apus.digital
+APUS Digital - https://apus.digital   
+
+Screenshot:   
+![Screenshot](screenshot.png)   
